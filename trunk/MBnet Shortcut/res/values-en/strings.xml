@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MBnet (Shortcut)</string>
+    <string name="toast">Opening MBnet in your browser!</string>
+    <string name="firstStart">The author of this application has no affiliation whatsoever to MBnet or associates. This application is simply a shortcut to their site!</string>
+    <string name="yes">I understand!</string>
+</resources>

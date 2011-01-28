@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MBnet (Atalho)</string>
+    <string name="toast">A abrir o MBnet no seu browser!</string>
+    <string name="firstStart">O autor desta aplicação não tem nenhuma afiliação com o MBnet ou seus parceiros. Esta aplicação é apenas um atalho para o site!</string>
+    <string name="yes">Eu compreendo!</string>
+</resources>
+
